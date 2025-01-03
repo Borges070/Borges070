@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas Alberto</h1>
 <h3 align="center">I'm an avid learner due to my curiosity</h3>
 
-- 🌱 I’m currently learning **a framework named Angular.**
+- 🌱 I’m currently learning **a little bit about computer networks.**
 - 📜 I am open to any questions, challenges and projects ideas!
 - 📩 Contact me: lucas.balmeida@sempreceub.com
   
